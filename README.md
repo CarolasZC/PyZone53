@@ -22,3 +22,23 @@ xxx 300 CNAME/A xxx
 # Feedback
 
 Feel free to let me know any improvement i can make to improve this python script more user friendly and useable
+
+# Support Me
+
+Any kind of support will be appreciated
+
+1) USDT(TRC20)
+
+```
+TVLdZKhfyxHAntX2aAFMwFU18aRQqezYeu
+```
+2) USDT(ERC20)
+
+```
+0x74c6bb39a608648fce3c0666d36ad106c3eb5c3e
+```
+3) BTC
+
+```
+TVLdZKhfyxHAntX2aAFMwFU18aRQqezYeu
+```
