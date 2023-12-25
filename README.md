@@ -27,6 +27,12 @@ Feel free to let me know any improvement i can make to improve this python scrip
 
 Any kind of support will be appreciated
 
+1) Paypal
+
+```
+paypal.com/paypalme/carolas0729
+```
+
 1) USDT(TRC20)
 
 ```
